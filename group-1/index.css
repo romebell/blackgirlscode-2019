@@ -1,0 +1,79 @@
+@font-face {
+  font-family: "Zoma";
+  src: url("Voice of the Highlander.ttf");
+}
+@font-face {
+  font-family: "Kaile";
+  src: url("adelline personal use only.ttf");
+}
+h1 {
+  font-family: "Zoma";
+font-size: 99px;
+}
+p {
+  font-family: "Kaile";
+  font-size: 32px;
+}
+nav li {
+  border-left: 1px solid salmon;
+  border-right: 1px solid salmon;
+  border-top: 1px solid salmon;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  float: left;
+  list-style-type: none;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0.5em;
+  margin: 1em;
+}
+#title {
+  text-align: center;
+}
+
+/* .picture{
+  text-align: center;
+} */
+#yellow {
+  background-color: yellow;
+}
+
+#green {
+  background-color: green;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#purple {
+  background-color: purple;
+}
+
+#orange {
+  background-color: orange;
+}
+
+#pink {
+  background-color: pink;
+}
+#JK {
+  transform: rotate(-90deg);
+  width: 300px;
+  height: 600px;
+  text-align: center;
+  margin-left: 200px;
+}
+#navbar {
+  margin: 0 auto;
+}
+#Jayla {
+  text-align: center;
+}
+#Yay {
+  text-align: center;
+}
+
+.main {
+  text-align: center;
+}

@@ -1,0 +1,61 @@
+#title{
+  text-align: center;
+  font-size: 50px;
+}
+
+body{
+  /* background-image: url("cake.jpeg"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+#pink {
+  background-color: pink;
+}
+
+#purple {
+  background-color: purple;
+}
+
+#teal {
+  background-color: teal;
+}
+
+#cake {
+  background-image: image("cake.jpeg");
+}
+
+#lolipop {
+  background-image: image("lolipop.jpeg");
+}
+
+#queen {
+  background-image: image("queen.jpeg");
+
+}
+
+h1{
+  font-size: 75px;
+}
+
+#drippin, #AkiraAmirae{
+  width: 560px;
+  height: 315px;
+
+}
+#AkiraAmirae {
+  transform: rotate(-90deg);
+  width: 400px;
+  height: 700px;
+}
+.pic1{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+#Akira{
+  width: 600px;
+  height:300px;
+}

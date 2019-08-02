@@ -1,0 +1,20 @@
+
+body {
+  background-image: url("nature.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-color: green;
+  border-style: solid;
+  border-width: thick;
+  text-align: center;``
+}
+
+img {
+  width: 300px;
+  height: 200px;
+}
+
+#pics {
+  width:300px;
+  height:300px;
+}

@@ -1,0 +1,19 @@
+body{
+  background-color: #87ceeb;
+}
+#title{
+  text-align: center;
+}
+img{
+  width: 300px;
+  height: 250px;
+}
+#purple{
+  background-color: purple;
+}
+#teal{
+  background-color: teal;
+}
+#lavender{
+background-color: lavender;
+}

@@ -1,0 +1,14 @@
+@font-face{
+  font-family:"myfont";
+  src: url("orange juice 2.0.ttf")
+}
+body {
+  background-color: cyan;
+  border-style: solid;
+  border-color: red;
+
+ text-align: center;
+
+}
+h1{font-family:"myfont";
+font-size: 100px;}

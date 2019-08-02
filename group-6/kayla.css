@@ -1,0 +1,26 @@
+body{background-color: pink;
+
+border-color: orange;
+border-style: solid;
+border-width: Thick;
+}
+#title {
+  text-align:  center;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+#pink {
+  background-color: pink;
+}
+
+#orange {
+  background-color: orange;
+}
+
+#violet {
+  background-color: violet;
+}

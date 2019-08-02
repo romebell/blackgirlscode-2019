@@ -1,0 +1,28 @@
+body{
+  background-color: violet;
+
+  border-color: indigo;
+  border-style: line;
+  border-width: thick;
+}
+
+#title {
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+#purple {
+ background-color: purple;
+}
+
+#magenta {
+  background-color: magenta;
+}
+
+#turquoise {
+   background-color: turquoise;
+}

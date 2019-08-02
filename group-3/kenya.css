@@ -1,0 +1,19 @@
+body {
+  background-color: magenta
+}
+
+img {
+width:300px;
+height:200px;
+}
+
+#pink{
+  background-color: pink;
+}
+#purple{
+  background-color: purple;
+}
+
+#lightblue{
+  background-color: #ADD8E6;
+}

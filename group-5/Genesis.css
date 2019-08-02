@@ -1,0 +1,16 @@
+body{
+  background-image: url("pastelpurple.jpg");
+  background-repeat: no repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+#diamonddivas {
+  width: 320px;
+  height: 325px;
+}
+
+#goodgirls {
+  width: 320px;
+  height: 325px;
+}

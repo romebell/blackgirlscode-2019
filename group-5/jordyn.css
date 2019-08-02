@@ -1,0 +1,17 @@
+body{
+  background-image: url(https://scontent-lga3-1.cdninstagram.com/vp/9f351cd170038ee8b598a29b05b3a0f5/5DC83CC0/t51.2885-15/sh0.08/e35/c0.143.1440.1440/s640x640/58409218_286756278934415_6228749186141291682_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* text-align: center; */
+}
+p{
+  font-size: 40px;
+  color:violet;
+}
+#hiliuu {
+  width: 400px;
+  height: 400px;
+}
+a {
+  font-size: 14px;
+}

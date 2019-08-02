@@ -28,10 +28,54 @@ body {
   height: 150px;
 }
 
-.tech-instructor {
+.tech-instructor{
   font-size: 32px;
 }
 
 .tech-assistant {
   font-size: 24px;
 }
+
+.students-title {
+  font-size: 36px;
+  font-weight: 600;
+}
+.students, .students-2 {
+  font-size: 20px;
+}
+
+.students {
+  margin-top: -50px;
+}
+
+.students-2 {
+  margin-top: 20px;
+}
+
+
+.students div, .students-2 div { 
+  display: inline-block;
+}
+
+.students img, .students-2 img {
+  width: 300px;
+  height: 400px;
+  transform: rotate(270deg);
+  margin: 0px 60px;
+}
+
+.students h2 {
+  margin-top: -40px;
+}
+
+.group-1 img, {
+  margin-left: 0px;
+}
+
+.group-6 img, .group-7 img, .group-8 img {
+  margin-top: 20px;
+  transform: rotate(360deg);
+  /* height: 400px; */
+}
+
+

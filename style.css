@@ -25,5 +25,13 @@ body {
   margin-left: 300px;
   text-align: center;
   width: 800px;
-  height: 500px;
+  height: 150px;
+}
+
+.tech-instructor {
+  font-size: 32px;
+}
+
+.tech-assistant {
+  font-size: 24px;
 }

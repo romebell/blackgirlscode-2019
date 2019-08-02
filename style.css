@@ -44,7 +44,7 @@ body {
   margin: 0 25%;
 }
 
-.tech-instructor{
+.tech-instructor {
   font-size: 32px;
 }
 
@@ -87,9 +87,24 @@ body {
   margin-left: 0px;
 }
 
+/* .group-4 img {
+  width: 400px;
+  height: 300px;
+  transform: rotate(360deg);
+  margin: 0px 60px;
+  margin-top: -50px;
+} */
+
 .group-6 img, .group-7 img, .group-8 img {
   margin-top: 20px;
   transform: rotate(360deg);
+}
+
+#group-4 {
+  margin-top: 30px;
+  transform: rotate(360deg);
+  width: 400px;
+  height: 300px;
 }
 
 button {
@@ -103,5 +118,9 @@ button {
 }
 
 a {
+  color: white;
+}
+
+#purple, #green, #red, #yellow, #violet, #blue, #pink, #orange {
   color: white;
 }

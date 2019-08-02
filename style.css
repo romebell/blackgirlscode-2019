@@ -1,10 +1,27 @@
 body {
   text-align: center;
 }
+
+@media only screen and (max-width: 500px) {
+  .logo {
+    display: inline-block;
+    background-color: #202020;
+    width: 100px;
+    height: 100px;
+    margin-top: 25px;
+  }
+  #logo {
+    float: left;
+    margin-left: 150px;
+    width: 250px;
+    height: 100px;
+  }
+}
+
 .logo {
+  display: inline-block;
   background-color: #202020;
   width: 825px;
-  margin-left: 300px;
   margin-top: 25px;
 }
 
@@ -13,7 +30,6 @@ body {
   margin-bottom: 20px;
   font-weight: bold;
   font-size: 36px;
-  
 }
 
 #vision {
@@ -22,10 +38,10 @@ body {
 
 #mission {
   font-size: 20px;
-  margin-left: 300px;
+  display: inline-block;
   text-align: center;
-  width: 800px;
   height: 150px;
+  margin: 0 25%;
 }
 
 .tech-instructor{
@@ -52,7 +68,6 @@ body {
   margin-top: 20px;
 }
 
-
 .students div, .students-2 div { 
   display: inline-block;
 }
@@ -75,7 +90,18 @@ body {
 .group-6 img, .group-7 img, .group-8 img {
   margin-top: 20px;
   transform: rotate(360deg);
-  /* height: 400px; */
 }
 
+button {
+  margin-top: 7px;
+  border: 1px solid #DA2072;
+  background-color: #DA2072;
+  color: black;
+  border-radius: 5px;
+  font-size: 14px;
+  
+}
 
+a {
+  color: white;
+}

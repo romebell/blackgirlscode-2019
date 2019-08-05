@@ -38,6 +38,7 @@ body {
 
   #mobile {
     transform: rotate(360deg);
+    margin-bottom: -40px;
   }
 
 }

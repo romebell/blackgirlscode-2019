@@ -37,7 +37,7 @@ body {
   }
 
   #mobile {
-    transform: rotate(270deg);
+    transform: rotate(180deg);
   }
 
 }

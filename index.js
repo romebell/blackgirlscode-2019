@@ -11,7 +11,6 @@ window.onload = function(){
   redButton.onclick = function(){
     body.style.backgroundColor = 'red';
   }
-
   purpleButton.onclick = function(){
     body.style.backgroundColor = 'purple';
   }
@@ -33,4 +32,8 @@ window.onload = function(){
     body.style.backgroundColor = 'yellow';
   }
 
+}
+
+function changeBackgroundColor(color) {
+  body.style.backgroundColor = color;
 }
